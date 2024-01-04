@@ -2,7 +2,7 @@
 <img height="200" src="https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless">
 </p>
 <p align="center">
-    7teen
+    <g> uno is a very skid fr</g>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=unoxyzmdfckz&color=grey">
 </p>
