@@ -1,8 +1,8 @@
 <p align="center">  
-<img height="200" src="https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless">
+<img height="200" src="https://media1.tenor.com/m/JUh8KbRQVYcAAAAC/anime-loli.gif">
 </p>
 <p align="center">
-    <g> uno is a very skid fr</g>
+    <g> uno is a big skid fr</g>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=unoxyzmdfckz&color=grey">
 </p>
