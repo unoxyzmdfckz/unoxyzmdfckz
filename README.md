@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless">
+<img height="200" src="https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless">
 </p>
 <p align="center">
     7teen
