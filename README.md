@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="[https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif](https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless)">
+<img src="https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless">
 </p>
 <p align="center">
     7teen
