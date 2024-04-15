@@ -12,4 +12,4 @@
 <p align="center">
 Teehee
 <p align="center">
-    <a href="https://discord.gg/pop">Cool server</a>
+    <a href="https://discord.gg/rippers">Join rwppers 🎀</a>
